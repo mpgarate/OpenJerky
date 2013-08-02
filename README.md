@@ -1,0 +1,4 @@
+OpenJerky
+=========
+
+Beef Jerky Recipe
